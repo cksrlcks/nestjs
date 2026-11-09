@@ -248,5 +248,3 @@
 - PostgreSQL: https://www.postgresql.org/docs/
 - Prisma: https://www.prisma.io/docs
 - OWASP Cheat Sheet Series: https://cheatsheetseries.owasp.org/
-
-> 이 로드맵은 계획 문서다. 실제 진행 및 다음에 할 일은 `PROGRESS.md`를 기준으로 판단한다.

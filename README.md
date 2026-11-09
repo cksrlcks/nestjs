@@ -17,7 +17,6 @@
 - 학습 시간: **매일 21:00–23:00 (KST)**
 - 학습 원칙: **개념 이해 → 최소 예제 → 기능 확장 → 정리 및 커밋**
 - 각 주의 주제와 완료 기준은 [`ROADMAP.md`](./ROADMAP.md)에서 확인
-- 일별 진도·막힌 점·다음 작업은 [`PROGRESS.md`](./PROGRESS.md)에 기록
 
 > 주 14시간의 계획 학습 시간은 목표치이며, 진행 상황에 따라 과제를 나누거나 복습일을 추가한다.
 
@@ -54,7 +53,6 @@
 nestjs-learning/
 ├── README.md
 ├── ROADMAP.md
-├── PROGRESS.md
 ├── week-01-nodejs/         # 주차별 실습 시작 시 생성
 ├── week-02-http/
 ├── ...
@@ -80,7 +78,7 @@ nestjs-learning/
 ## 일일 종료 체크리스트
 
 - [ ] 오늘 작성한 API의 정상·실패 케이스 확인
-- [ ] `PROGRESS.md`에 오늘 한 일과 다음 할 일 작성
+- [ ] 오늘 한 일과 다음 할 일 기록
 - [ ] 비밀번호, API 키, `.env` 등 민감한 정보가 Git에 포함되지 않았는지 확인
 - [ ] 코드 커밋 및 원격 저장소에 푸시
 
@@ -90,11 +88,3 @@ nestjs-learning/
 - [NestJS Documentation](https://docs.nestjs.com/)
 - [PostgreSQL Documentation](https://www.postgresql.org/docs/)
 - [Prisma Documentation](https://www.prisma.io/docs)
-
-## 학습 진행 상태
-
-- 현재 주차: **1주 차 (시작 전)**
-- 현재 주제: **Node.js 런타임과 HTTP 기초**
-- 다음 작업: **첫 HTTP 서버 실행**
-
-진도는 [`PROGRESS.md`](./PROGRESS.md)를 최신 기준으로 관리한다.
